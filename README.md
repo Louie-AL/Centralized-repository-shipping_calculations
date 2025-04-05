@@ -25,12 +25,12 @@ This project provides a Python script to calculate shipping costs based on vario
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Louie-AL/Centralized-repository-shipping_calculations.git
+   git clone https://github.com/Louie-AL/LogisticsShippingRates.git
    ```
 
 3. **Navigate to the Project Directory:**
    ```bash
-   cd Centralized-repository-shipping_calculations
+   cd LogisticsShippingRates
    ```
 
 4. **Run the Script:**
